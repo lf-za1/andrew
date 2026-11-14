@@ -1,0 +1,34 @@
+CACHE MANIFEST
+# generated for SploitGoldHEN 14.02
+# 2026-11-13T23:14:56Z
+
+index.html #c9491e3f1e69b27431aae839cd7f494b
+jb.html #6e2019d5584f65a52bab05d3e3a77b1e
+style.css #b198b102035a11d6822cbd7055ab718a
+launch.js #1e406454dc6bd2441be9346e379788f6
+jb.js #2312f8f83b4885e67b39230212118e8d
+core.js #723ae5d0508210a853121e269c4c860b
+mem.js #5af92e7f8cefaa68a885741a38fcdf5c
+int64.js #fabcdebec6b672d62466956560875210
+ps4_offsets.js #e4f080b4054447b53920851d86d7d511
+afterglow.js #19da81fcdf3e680550b0249229e416e4
+meme.png #08206a31751c586d7d2f0fac18e61ed8
+patchset-1200.bin #037854ee951f05d1986ce65240d5e426
+patchset-1202.bin #037854ee951f05d1986ce65240d5e426
+patchset-1250.bin #9e201c21c5f55edb69b8db9622d32d67
+patchset-1252.bin #9e201c21c5f55edb69b8db9622d32d67
+patchset-1300.bin #0981babf2441f9c3801a686504195a73
+patchset-1302.bin #52d2b6ba6b9c3d5f128e714dbb2cfcec
+patchset-1304.bin #52d2b6ba6b9c3d5f128e714dbb2cfcec
+patchset-1350.bin #d7f7284b6f9bdd032209ec585034d80f
+patchset-1352.bin #70ef91242095d8a12f73c92cb12ab641
+patchset-1400.bin #6954620ae517d3b882e332bd9ed407dc
+patchset-1402.bin #d94cf76046a63ea7c7f281d202ad4cfd
+hen.bin #e7df7fb94e58a1b4a4a5e7dda4f190e1
+goldhen.bin #a58e0f304ac9ac47545623a0b00d9341
+
+FALLBACK:
+jb.html jb.html
+
+NETWORK:
+*
